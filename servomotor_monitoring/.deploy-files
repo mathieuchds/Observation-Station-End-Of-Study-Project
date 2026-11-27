@@ -1,0 +1,10 @@
+# Chemins relatifs à servomotor_monitoring/
+__main__.py
+servo.py
+pan.py
+mpu6050_test.py
+zoom_test.py
+requirements.txt
+README.md
+AGENTS.md
+.gitignore

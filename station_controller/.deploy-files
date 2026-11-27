@@ -1,0 +1,10 @@
+# Chemins relatifs à station_controller/
+__main__.py
+station.py
+battery.py
+motor_test.py
+requirements.txt
+README.md
+COMMANDES_PI5.md
+AGENTS.md
+.gitignore
